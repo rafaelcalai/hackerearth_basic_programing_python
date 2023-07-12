@@ -10,12 +10,12 @@ You are given the cost of each balloon and problems that each participant solve.
 
 ### Input format
 
-> - First line: *T* that denotes the number of test cases (1≤ *T* ≤10)
+ - First line: *T* that denotes the number of test cases (1≤ *T* ≤10)
  - For each test case: 
    -  First line: Cost of green and
  purple-colored balloons 
    -  Second line: that denotes the number of participants (1≤ *n* ≤10)
-- Next *n* lines: Contain the status of users. For example, if the value of the **j^th^** integer in the **i^th^** row is 0, then it depicts that the **i^th^** participant has not solved the  problem. Similarly, if the value of the **j^th^** integer in the **i^th^** row is 1, then it depicts that the **i^th^** participant has solved the **j^th^** problem.
+- Next *n* lines: Contain the status of users. For example, if the value of the **j<sup>th</sup>** integer in the **i<sup>th</sup>** row is 0, then it depicts that the **i<sup>th</sup>** participant has not solved the  problem. Similarly, if the value of the **j<sup>th</sup>** integer in the **i<sup>th</sup>** row is 1, then it depicts that the **i<sup>th</sup>** participant has solved the **j<sup>th</sup>** problem.
  
 ### Output format
 For each test case, print the minimum cost that you have to pay to purchase balloons.
@@ -51,9 +51,9 @@ For each test case, print the minimum cost that you have to pay to purchase ball
 
 
 
-Time Limit: 1
-Memory Limit: 256
-Source Limit:
+Time Limit: 1s <br>
+Memory Limit: 256<br>
+
 
 
 
